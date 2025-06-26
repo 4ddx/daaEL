@@ -2,7 +2,6 @@ import Link from "next/link"
 import { Button } from "@/components/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/card"
 import { ArrowLeft, Play } from "lucide-react"
-import '../globals.css'
 export default function DemoPage() {
   return (
     <div className="min-h-screen bg-gray-50 p-6">
